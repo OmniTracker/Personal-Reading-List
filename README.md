@@ -13,7 +13,7 @@ March 2018:
   - Summary: TBA
   
 3) New Directions in Cryptography : https://ee.stanford.edu/~hellman/publications/24.pdf
-  - Summary: TBA
+  - Summary: In an authentication system, cryptography is used to guarantee the authenticity of the message to the receiver. Not only must a meddler be prevented from injecting totally new, authentic looking messages into a channel, but he must be prevented from creating apparently authentic messages by combining, or merely repeating, old messages which he has copied in the past. A cryptographic system intended to guarantee privacy will not, in general, prevent this latter form of mischief. 
 
 4) Lectures on Discrete Probabilistic Models: http://www.math.unipd.it/~pavon/Site/Teaching_files/notes.pdf
   - Summary: (This document will take me sometime to read, but I will hopefully have a rough understanding of the material before the summer)
