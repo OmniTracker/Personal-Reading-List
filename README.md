@@ -16,4 +16,4 @@ March 2018:
   - Summary: TBA
 
 4) Lectures on Discrete Probabilistic Models: http://www.math.unipd.it/~pavon/Site/Teaching_files/notes.pdf
-  - Summary: (This document will take me sometime to read, but I will hopefully high a rough understanding of the material before the summer)
+  - Summary: (This document will take me sometime to read, but I will hopefully have a rough understanding of the material before the summer)
