@@ -14,3 +14,6 @@ March 2018:
   
 3) New Directions in Cryptography : https://ee.stanford.edu/~hellman/publications/24.pdf
   - Summary: TBA
+
+4) Lectures on Discrete Probabilistic Models: http://www.math.unipd.it/~pavon/Site/Teaching_files/notes.pdf
+  - Summary: (This document will take me sometime to read, but I will hopefully high a rough understanding of the material before the summer)
