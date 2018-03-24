@@ -1,3 +1,5 @@
+
+
 # Personal-Reading-List
 I've decided keep track of the resources I found really useful.
 
@@ -5,6 +7,9 @@ Basic writing and formatting syntax: https://help.github.com/articles/basic-writ
   - Summary: I included this link so I could always have a solid quick reference for creating this running document.
   
 March 2018:
+
+1) The Ultimate Guide to Bitcoin By: Michael Miller
+  - Additional Information: Publisher: Que Date: October 27, 2014
 
 1) The Complexity of Public-Key Cryptography: https://eprint.iacr.org/2017/365.pdf
   - Summary: TBA 
