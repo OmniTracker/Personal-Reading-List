@@ -30,5 +30,8 @@ March 2018:
 6) Lectures on Discrete Probabilistic Models: http://www.math.unipd.it/~pavon/Site/Teaching_files/notes.pdf
   - Summary: (This document will take me sometime to read, but I will hopefully have a rough understanding of the material before the summer)
   
+ 7) Proof-of-work: https://en.wikipedia.org/wiki/Proof-of-work_system
+  - Summary: An economic measure to deter denial of service attacks and other service abuses such as spam on a network by requiring some work from the service requester, usually meaning processing time by a computer. This is just a wikipedia page I found interesting.
+  
   
   
