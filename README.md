@@ -1,3 +1,4 @@
+
 # Personal-Reading-List
 I've decided keep track of the resources I found really useful.
 
@@ -32,5 +33,6 @@ March 2018:
   - Summary: An economic measure to deter denial of service attacks and other service abuses such as spam on a network by requiring some work from the service requester, usually meaning processing time by a computer. This is just a wikipedia page I found interesting.
     - HashCash: https://en.wikipedia.org/wiki/Hashcash
       - Client Puzzles: A Cryptographic Countermeasure Against Connection Depletion Attacks : http://hashcash.org/papers/client-puzzles.pdf
+    - Introduction to Secure Sockets Layer: http://euro.ecom.cmu.edu/resources/elibrary/epay/SSL.pdf
   
   
