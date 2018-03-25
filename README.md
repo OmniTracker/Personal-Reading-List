@@ -1,4 +1,5 @@
 
+  
 
 
 # Personal-Reading-List
@@ -34,5 +35,6 @@ March 2018:
  7) Proof-of-work system: https://en.wikipedia.org/wiki/Proof-of-work_system
   - Summary: An economic measure to deter denial of service attacks and other service abuses such as spam on a network by requiring some work from the service requester, usually meaning processing time by a computer. This is just a wikipedia page I found interesting.
     - HashCash: https://en.wikipedia.org/wiki/Hashcash
+      - client Puzzles: A Cryptographic Countermeasure Against Connection Depletion Attacks : http://hashcash.org/papers/client-puzzles.pdf
   
   
