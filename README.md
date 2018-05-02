@@ -77,4 +77,7 @@ March 2018:
   21)  https://www.blockstream.com/sidechains.pdf
     - Enabling Blockchain Innovations with Pegged Sidechains.
     
+  22) https://www.cs.umd.edu/~elaine/docs/permacoin.pdf
+      - Permacoin: Repurposing Bitcoin Work for Data Preservation
+    
   
