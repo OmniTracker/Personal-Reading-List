@@ -66,3 +66,6 @@ March 2018:
   17) http://unenumerated.blogspot.ca/2014/12/the-dawn-of-trustworthy-computing.html
     - When we currently use a smart phone or a laptop on a cell network or the Internet, the other end of these interactions typically run on other solo computers, such as web servers. Practically all of these machines have architectures that were designed to be controlled by a single person or a hierarchy of people who know and trust each other. 
   
+  18) http://joel.mn/post/103546215249/the-blockchain-application-stack
+    - Just a simple explanation og the Bitcoin stack.
+  
