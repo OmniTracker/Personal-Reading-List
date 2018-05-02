@@ -71,3 +71,6 @@ March 2018:
     
   19) https://voluntary.net/bitmarkets/whitepaper/
   
+  20) https://bitcoil.co.il/BitcoinX.pdf
+    - Color Coins
+  
