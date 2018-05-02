@@ -62,4 +62,7 @@ March 2018:
         
     16) https://bravenewcoin.com/assets/Whitepapers/BlackHalo-whitepaper-twosided.pdf
         - Crypto-currency is a form of decentralized digital currency that has changed the world of finance over the past several years. Bitcoin[6] lacks a central authority and protects anonymity, while allowing a relatively low-cost alternative to fiat. It opens the doors for international exchange of commoditie  and has the potential to change how business is conducted. The signature and scripting system that Bitcoin uses allows for the creation of smart contracts. Also using signatures, it is possible to create accounts that require multiple signatures (multisig accounts) as well as transactions with multiple inputs and outputs. There has been discussion of some of the current weaknesses with smart contracts. We address these weaknesses to make smart contracts immediately accessible on the Bitcoin network. As proposed, this protocol offers a system of commitment schemes and business protocols that greatly reduces the issues of extortion and malleability from two-party escrow.
+        
+  17) http://unenumerated.blogspot.ca/2014/12/the-dawn-of-trustworthy-computing.html
+    - When we currently use a smart phone or a laptop on a cell network or the Internet, the other end of these interactions typically run on other solo computers, such as web servers. Practically all of these machines have architectures that were designed to be controlled by a single person or a hierarchy of people who know and trust each other. 
   
