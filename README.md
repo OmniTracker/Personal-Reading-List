@@ -50,4 +50,6 @@ March 2018:
   12) https://bitcoin.org/bitcoin.pdf
     - A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution
   
+  13) https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub
+    - Effort has been directed towards architecting a parallel financial system with bitcoin the currency as a base layer. The driving force are flexibility benefits of cryptographic ledgers enabling new use cases like Multi-signature accounts, Decentralized exchange, Machine to machine transactions etc. This paper analyzes applications of cryptographic ledgers in the current financial system and aims to stimulate the discussion.
   
