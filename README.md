@@ -56,4 +56,7 @@ March 2018:
     14) http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf
     
         - Mutual distributed ledgers (aka blockchains) record transactions and ownership using pervasive, persistent, and permanent data structures replicated across numerous computers. The two principal technology components are public-key cryptography and ‘peer-to-peer’ or shared data storage. The end result is a data source that is simultaneously logically ‘central’ while technically ‘distributed’ across the computers on the network. 
+        
+    15) http://nakamotoinstitute.org/static/docs/economics-of-bitcoin.pdf
+        - Economics of Bitcoin: is Bitcoin an alternative to at currencies and gold?
   
