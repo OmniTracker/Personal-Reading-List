@@ -68,4 +68,6 @@ March 2018:
   
   18) http://joel.mn/post/103546215249/the-blockchain-application-stack
     - Just a simple explanation og the Bitcoin stack.
+    
+  19) https://voluntary.net/bitmarkets/whitepaper/
   
