@@ -36,8 +36,10 @@ March 2018:
     - Introduction to Secure Sockets Layer: http://euro.ecom.cmu.edu/resources/elibrary/epay/SSL.pdf
     
   8) https://tools.ietf.org/html/rfc791#section-1.1
-    - his document specifies the DoD Standard Internet Protocol.  This document is based on six earlier editions of the ARPA Internet Protocol Specification, and the present text draws heavily from them.  There have been many contributors to this work both in terms of concepts and in terms of text.  This edition revises aspects of addressing, error handling, option codes, and the security, precedence, compartments, and handling restriction features of the internet protocol.
+    - This document specifies the DoD Standard Internet Protocol.  This document is based on six earlier editions of the ARPA Internet Protocol Specification, and the present text draws heavily from them.  There have been many contributors to this work both in terms of concepts and in terms of text.  This edition revises aspects of addressing, error handling, option codes, and the security, precedence, compartments, and handling restriction features of the internet protocol.
     
+  9) https://interledger.org/interledger.pdf
+      -  Digital payment systems use ledgers to track accounts and balances and to enable local transfers between their users. Today, there are few connectors facilitating payments between these ledgers and there are high barriers to entry for creating new connections. Connectors are not standardized and they must be trusted not to steal the sender’s money.
     
     
   
