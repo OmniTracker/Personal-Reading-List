@@ -58,5 +58,5 @@ March 2018:
         - Mutual distributed ledgers (aka blockchains) record transactions and ownership using pervasive, persistent, and permanent data structures replicated across numerous computers. The two principal technology components are public-key cryptography and ‘peer-to-peer’ or shared data storage. The end result is a data source that is simultaneously logically ‘central’ while technically ‘distributed’ across the computers on the network. 
         
     15) http://nakamotoinstitute.org/static/docs/economics-of-bitcoin.pdf
-        - Economics of Bitcoin: is Bitcoin an alternative to at currencies and gold?
+        - Economics of Bitcoin: is Bitcoin an alternative to fiat currencies and gold?
   
