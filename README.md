@@ -52,4 +52,8 @@ March 2018:
   
   13) https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub
     - Effort has been directed towards architecting a parallel financial system with bitcoin the currency as a base layer. The driving force are flexibility benefits of cryptographic ledgers enabling new use cases like Multi-signature accounts, Decentralized exchange, Machine to machine transactions etc. This paper analyzes applications of cryptographic ledgers in the current financial system and aims to stimulate the discussion.
+    
+    14) http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf
+    
+        - Mutual distributed ledgers (aka blockchains) record transactions and ownership using pervasive, persistent, and permanent data structures replicated across numerous computers. The two principal technology components are public-key cryptography and ‘peer-to-peer’ or shared data storage. The end result is a data source that is simultaneously logically ‘central’ while technically ‘distributed’ across the computers on the network. 
   
