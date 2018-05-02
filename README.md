@@ -34,5 +34,11 @@ March 2018:
     - HashCash: https://en.wikipedia.org/wiki/Hashcash
       - Client Puzzles: A Cryptographic Countermeasure Against Connection Depletion Attacks : http://hashcash.org/papers/client-puzzles.pdf
     - Introduction to Secure Sockets Layer: http://euro.ecom.cmu.edu/resources/elibrary/epay/SSL.pdf
+    
+  8) https://tools.ietf.org/html/rfc791#section-1.1
+    - his document specifies the DoD Standard Internet Protocol.  This document is based on six earlier editions of the ARPA Internet Protocol Specification, and the present text draws heavily from them.  There have been many contributors to this work both in terms of concepts and in terms of text.  This edition revises aspects of addressing, error handling, option codes, and the security, precedence, compartments, and handling restriction features of the internet protocol.
+    
+    
+    
   
   
