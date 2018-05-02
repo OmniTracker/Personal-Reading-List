@@ -47,5 +47,7 @@ March 2018:
   11) https://ripple.com/build/escrow-tutorials/
     - Escrow tutuorial from Ripple
     
+  12) https://bitcoin.org/bitcoin.pdf
+    - A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution
   
   
