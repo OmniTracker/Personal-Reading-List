@@ -73,4 +73,8 @@ March 2018:
   
   20) https://bitcoil.co.il/BitcoinX.pdf
     - Color Coins
+    
+  21)  https://www.blockstream.com/sidechains.pdf
+    - Enabling Blockchain Innovations with Pegged Sidechains.
+    
   
