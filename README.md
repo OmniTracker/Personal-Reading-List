@@ -59,4 +59,7 @@ March 2018:
         
     15) http://nakamotoinstitute.org/static/docs/economics-of-bitcoin.pdf
         - Economics of Bitcoin: is Bitcoin an alternative to fiat currencies and gold?
+        
+    16) https://bravenewcoin.com/assets/Whitepapers/BlackHalo-whitepaper-twosided.pdf
+        - Crypto-currency is a form of decentralized digital currency that has changed the world of finance over the past several years. Bitcoin[6] lacks a central authority and protects anonymity, while allowing a relatively low-cost alternative to fiat. It opens the doors for international exchange of commoditie  and has the potential to change how business is conducted. The signature and scripting system that Bitcoin uses allows for the creation of smart contracts. Also using signatures, it is possible to create accounts that require multiple signatures (multisig accounts) as well as transactions with multiple inputs and outputs. There has been discussion of some of the current weaknesses with smart contracts. We address these weaknesses to make smart contracts immediately accessible on the Bitcoin network. As proposed, this protocol offers a system of commitment schemes and business protocols that greatly reduces the issues of extortion and malleability from two-party escrow.
   
